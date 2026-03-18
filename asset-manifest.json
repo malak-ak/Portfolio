@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.12ee30c1.css",
+    "main.js": "/Portfolio/static/js/main.e9203479.js",
+    "static/js/208.9d9254ce.chunk.js": "/Portfolio/static/js/208.9d9254ce.chunk.js",
+    "static/js/293.c4a30103.chunk.js": "/Portfolio/static/js/293.c4a30103.chunk.js",
+    "static/js/917.39a3c9dc.chunk.js": "/Portfolio/static/js/917.39a3c9dc.chunk.js",
+    "static/js/516.f7f04a55.chunk.js": "/Portfolio/static/js/516.f7f04a55.chunk.js",
+    "static/js/519.aca098b9.chunk.js": "/Portfolio/static/js/519.aca098b9.chunk.js",
+    "static/js/946.36b6be0a.chunk.js": "/Portfolio/static/js/946.36b6be0a.chunk.js",
+    "static/js/160.c6278b0a.chunk.js": "/Portfolio/static/js/160.c6278b0a.chunk.js",
+    "static/js/23.ede3b6d8.chunk.js": "/Portfolio/static/js/23.ede3b6d8.chunk.js",
+    "static/media/rare beauty.png": "/Portfolio/static/media/rare beauty.7698b86eb05eafeced51.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.c3e694eb24b733d0af71.png",
+    "static/media/gamestore.png": "/Portfolio/static/media/gamestore.3032597f144996996f62.png",
+    "static/media/teamflow.png": "/Portfolio/static/media/teamflow.b1f2b0fa26e8342741a8.png",
+    "static/media/php my sql.png": "/Portfolio/static/media/php my sql.c7aeaab6603289a50b30.png",
+    "static/media/bootstrap-icons.woff?": "/Portfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/Portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/DP.gif": "/Portfolio/static/media/DP.59dd60ada9fd0a829bfe.gif",
+    "index.html": "/Portfolio/index.html",
+    "main.12ee30c1.css.map": "/Portfolio/static/css/main.12ee30c1.css.map",
+    "main.e9203479.js.map": "/Portfolio/static/js/main.e9203479.js.map",
+    "208.9d9254ce.chunk.js.map": "/Portfolio/static/js/208.9d9254ce.chunk.js.map",
+    "293.c4a30103.chunk.js.map": "/Portfolio/static/js/293.c4a30103.chunk.js.map",
+    "917.39a3c9dc.chunk.js.map": "/Portfolio/static/js/917.39a3c9dc.chunk.js.map",
+    "516.f7f04a55.chunk.js.map": "/Portfolio/static/js/516.f7f04a55.chunk.js.map",
+    "519.aca098b9.chunk.js.map": "/Portfolio/static/js/519.aca098b9.chunk.js.map",
+    "946.36b6be0a.chunk.js.map": "/Portfolio/static/js/946.36b6be0a.chunk.js.map",
+    "160.c6278b0a.chunk.js.map": "/Portfolio/static/js/160.c6278b0a.chunk.js.map",
+    "23.ede3b6d8.chunk.js.map": "/Portfolio/static/js/23.ede3b6d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ee30c1.css",
+    "static/js/main.e9203479.js"
+  ]
+}
